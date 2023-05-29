@@ -1,2 +1,2 @@
 # BetaCast vi folder
-[BetaCast](/qffx/betacast-2009)
+[BetaCast](https://github.com/qffx/betacast-2009)
